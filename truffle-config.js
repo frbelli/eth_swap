@@ -5,6 +5,8 @@ var Web3 = require('web3');
 module.exports = {
   // See <http://truffleframework.com/docs/advanced/configuration>
   // to customize your Truffle configuration!
+  // kaleido connectionURL
+  
   networks: {
     development: {
       provider: () => {
