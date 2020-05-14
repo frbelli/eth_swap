@@ -20,8 +20,7 @@ module.exports = {
   },
   mocha: {
     enableTimeouts: false,
-    before_timeout: 600000,
-    useColors: true
+    before_timeout: 600000
   },
   compilers: {
     solc: {
